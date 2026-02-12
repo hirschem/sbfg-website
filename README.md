@@ -6,11 +6,11 @@ Official website for Splash Boyz Financial Group, a professional financial servi
 
 This repository contains the source code for the Splash Boyz Financial Group corporate website. The site serves as the primary digital presence for the firm, providing information about our services, company values, and approach to financial planning.
 
-Built as a modern, performant web application, the site is designed to scale with the company's growth and evolving service offerings.
+Built as a modern, high-performance website designed to scale with the company's growth and evolving service offerings.
 
 ## Technology Stack
 
-- **Framework:** Next.js 15 (App Router)
+- **Framework:** Next.js (App Router)
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Font System:** Google Fonts (Playfair Display, Inter)
@@ -68,11 +68,11 @@ Built as a modern, performant web application, the site is designed to scale wit
 
 ## Deployment
 
-The site is configured for deployment on Vercel and will automatically deploy from the `master` branch upon push.
+The site is configured for deployment on Vercel and will automatically deploy from the `main` branch upon push.
 
 ### Production Deployment
 
-Production builds are automatically generated and deployed when changes are merged to the master branch. The build process includes:
+Production builds are automatically generated and deployed when changes are merged to the main branch. The build process includes:
 
 - TypeScript compilation
 - CSS optimization and minification
@@ -105,12 +105,7 @@ This codebase is structured to accommodate future enhancements, including:
 
 ## Browser Support
 
-The site is optimized for modern browsers:
-
-- Chrome (last 2 versions)
-- Firefox (last 2 versions)
-- Safari (last 2 versions)
-- Edge (last 2 versions)
+Optimized for modern evergreen browsers.
 
 ## License
 
@@ -126,6 +121,3 @@ For technical inquiries regarding this website, please contact the development t
 
 **Splash Boyz Financial Group**  
 Navigating for a Better Financial Future
-
-
-To learn more about Next.js, check out the [Next.js Documentation](https://nextjs.org/docs).
